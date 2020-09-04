@@ -1,0 +1,9 @@
+C:\Users\shoeb\source\repos\Walden\Walden.Data\bin\Debug\netcoreapp3.1\Walden.Data.deps.json
+C:\Users\shoeb\source\repos\Walden\Walden.Data\bin\Debug\netcoreapp3.1\Walden.Data.dll
+C:\Users\shoeb\source\repos\Walden\Walden.Data\bin\Debug\netcoreapp3.1\Walden.Data.pdb
+C:\Users\shoeb\source\repos\Walden\Walden.Data\obj\Debug\netcoreapp3.1\Walden.Data.csprojAssemblyReference.cache
+C:\Users\shoeb\source\repos\Walden\Walden.Data\obj\Debug\netcoreapp3.1\Walden.Data.AssemblyInfoInputs.cache
+C:\Users\shoeb\source\repos\Walden\Walden.Data\obj\Debug\netcoreapp3.1\Walden.Data.AssemblyInfo.cs
+C:\Users\shoeb\source\repos\Walden\Walden.Data\obj\Debug\netcoreapp3.1\Walden.Data.dll
+C:\Users\shoeb\source\repos\Walden\Walden.Data\obj\Debug\netcoreapp3.1\Walden.Data.pdb
+C:\Users\shoeb\source\repos\Walden\Walden.Data\obj\Debug\netcoreapp3.1\Walden.Data.csproj.CoreCompileInputs.cache
